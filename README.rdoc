@@ -1,0 +1,2 @@
+= Snippets for Clisp
+These are some simple snippets for Common Lisp, in the SnipMate format for vim.
